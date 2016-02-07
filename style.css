@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,300,700,900);
+@import url(https://fonts.googleapis.com/css?family=News+Cycle:400,700);
+
+#para1{
+  font-weight: 100;
+}
+#para2{
+  font-weight:300;
+  color: navy;
+}
+#para3{
+  font-weight: 700;
+  color: cornflowerblue;
+}
+#para4{
+  font-weight: 900;
+}
+
+h2{
+  font-family: "News Cycle", sans-serif;
+}
+
+h3{
+  font-family: "News Cycle", sans-serif;
+}
+
+body{
+  font-family: "Raleway", sans-serif;
+  font-size: 32px;
+}
